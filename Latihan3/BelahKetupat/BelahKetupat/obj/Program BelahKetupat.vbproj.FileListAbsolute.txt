@@ -1,0 +1,11 @@
+c:\users\axioo\documents\visual studio 2015\Projects\Program BelahKetupat\Program BelahKetupat\bin\Debug\Program BelahKetupat.exe.config
+c:\users\axioo\documents\visual studio 2015\Projects\Program BelahKetupat\Program BelahKetupat\bin\Debug\Program BelahKetupat.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Program BelahKetupat\Program BelahKetupat\bin\Debug\Program BelahKetupat.pdb
+c:\users\axioo\documents\visual studio 2015\Projects\Program BelahKetupat\Program BelahKetupat\bin\Debug\Program BelahKetupat.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Program BelahKetupat\Program BelahKetupat\obj\Debug\Program BelahKetupat.vbprojResolveAssemblyReference.cache
+c:\users\axioo\documents\visual studio 2015\Projects\Program BelahKetupat\Program BelahKetupat\obj\Debug\Program_BelahKetupat.Form1.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Program BelahKetupat\Program BelahKetupat\obj\Debug\Program_BelahKetupat.Resources.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Program BelahKetupat\Program BelahKetupat\obj\Debug\Program BelahKetupat.vbproj.GenerateResource.Cache
+c:\users\axioo\documents\visual studio 2015\Projects\Program BelahKetupat\Program BelahKetupat\obj\Debug\Program BelahKetupat.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Program BelahKetupat\Program BelahKetupat\obj\Debug\Program BelahKetupat.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Program BelahKetupat\Program BelahKetupat\obj\Debug\Program BelahKetupat.pdb
