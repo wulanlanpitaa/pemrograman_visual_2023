@@ -1,0 +1,11 @@
+c:\users\axioo\documents\visual studio 2015\Projects\Program Layang-Layang\Program Layang-Layang\bin\Debug\Program Layang-Layang.exe.config
+c:\users\axioo\documents\visual studio 2015\Projects\Program Layang-Layang\Program Layang-Layang\obj\Debug\Program Layang-Layang.vbprojResolveAssemblyReference.cache
+c:\users\axioo\documents\visual studio 2015\Projects\Program Layang-Layang\Program Layang-Layang\obj\Debug\Program_Layang_Layang.Form1.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Program Layang-Layang\Program Layang-Layang\obj\Debug\Program_Layang_Layang.Resources.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Program Layang-Layang\Program Layang-Layang\obj\Debug\Program Layang-Layang.vbproj.GenerateResource.Cache
+c:\users\axioo\documents\visual studio 2015\Projects\Program Layang-Layang\Program Layang-Layang\obj\Debug\Program Layang-Layang.xml
+C:\Users\AXIOO\Documents\Visual Studio 2015\Projects\Program Layang-Layang\Program Layang-Layang\bin\Debug\Program Layang-Layang.exe
+C:\Users\AXIOO\Documents\Visual Studio 2015\Projects\Program Layang-Layang\Program Layang-Layang\bin\Debug\Program Layang-Layang.pdb
+C:\Users\AXIOO\Documents\Visual Studio 2015\Projects\Program Layang-Layang\Program Layang-Layang\bin\Debug\Program Layang-Layang.xml
+C:\Users\AXIOO\Documents\Visual Studio 2015\Projects\Program Layang-Layang\Program Layang-Layang\obj\Debug\Program Layang-Layang.exe
+C:\Users\AXIOO\Documents\Visual Studio 2015\Projects\Program Layang-Layang\Program Layang-Layang\obj\Debug\Program Layang-Layang.pdb
