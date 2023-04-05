@@ -1,0 +1,11 @@
+c:\users\axioo\documents\visual studio 2015\Projects\Program Lingkaran\Program Lingkaran\bin\Debug\Program Lingkaran.exe.config
+c:\users\axioo\documents\visual studio 2015\Projects\Program Lingkaran\Program Lingkaran\bin\Debug\Program Lingkaran.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Program Lingkaran\Program Lingkaran\bin\Debug\Program Lingkaran.pdb
+c:\users\axioo\documents\visual studio 2015\Projects\Program Lingkaran\Program Lingkaran\bin\Debug\Program Lingkaran.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Program Lingkaran\Program Lingkaran\obj\Debug\Program Lingkaran.vbprojResolveAssemblyReference.cache
+c:\users\axioo\documents\visual studio 2015\Projects\Program Lingkaran\Program Lingkaran\obj\Debug\Program_Lingkaran.Form1.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Program Lingkaran\Program Lingkaran\obj\Debug\Program_Lingkaran.Resources.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Program Lingkaran\Program Lingkaran\obj\Debug\Program Lingkaran.vbproj.GenerateResource.Cache
+c:\users\axioo\documents\visual studio 2015\Projects\Program Lingkaran\Program Lingkaran\obj\Debug\Program Lingkaran.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Program Lingkaran\Program Lingkaran\obj\Debug\Program Lingkaran.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Program Lingkaran\Program Lingkaran\obj\Debug\Program Lingkaran.pdb
