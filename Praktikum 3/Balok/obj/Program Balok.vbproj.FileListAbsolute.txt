@@ -1,0 +1,11 @@
+c:\users\axioo\documents\visual studio 2015\Projects\Program Balok\Program Balok\bin\Debug\Program Balok.exe.config
+c:\users\axioo\documents\visual studio 2015\Projects\Program Balok\Program Balok\bin\Debug\Program Balok.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Program Balok\Program Balok\bin\Debug\Program Balok.pdb
+c:\users\axioo\documents\visual studio 2015\Projects\Program Balok\Program Balok\bin\Debug\Program Balok.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Program Balok\Program Balok\obj\Debug\Program Balok.vbprojResolveAssemblyReference.cache
+c:\users\axioo\documents\visual studio 2015\Projects\Program Balok\Program Balok\obj\Debug\Program_Balok.Form1.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Program Balok\Program Balok\obj\Debug\Program_Balok.Resources.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Program Balok\Program Balok\obj\Debug\Program Balok.vbproj.GenerateResource.Cache
+c:\users\axioo\documents\visual studio 2015\Projects\Program Balok\Program Balok\obj\Debug\Program Balok.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Program Balok\Program Balok\obj\Debug\Program Balok.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Program Balok\Program Balok\obj\Debug\Program Balok.pdb
