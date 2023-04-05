@@ -1,0 +1,11 @@
+c:\users\axioo\documents\visual studio 2015\Projects\Program Bujur Sangkar\Program Bujur Sangkar\bin\Debug\Program Bujur Sangkar.exe.config
+c:\users\axioo\documents\visual studio 2015\Projects\Program Bujur Sangkar\Program Bujur Sangkar\bin\Debug\Program Bujur Sangkar.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Program Bujur Sangkar\Program Bujur Sangkar\bin\Debug\Program Bujur Sangkar.pdb
+c:\users\axioo\documents\visual studio 2015\Projects\Program Bujur Sangkar\Program Bujur Sangkar\bin\Debug\Program Bujur Sangkar.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Program Bujur Sangkar\Program Bujur Sangkar\obj\Debug\Program Bujur Sangkar.vbprojResolveAssemblyReference.cache
+c:\users\axioo\documents\visual studio 2015\Projects\Program Bujur Sangkar\Program Bujur Sangkar\obj\Debug\Program_Bujur_Sangkar.Form1.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Program Bujur Sangkar\Program Bujur Sangkar\obj\Debug\Program_Bujur_Sangkar.Resources.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Program Bujur Sangkar\Program Bujur Sangkar\obj\Debug\Program Bujur Sangkar.vbproj.GenerateResource.Cache
+c:\users\axioo\documents\visual studio 2015\Projects\Program Bujur Sangkar\Program Bujur Sangkar\obj\Debug\Program Bujur Sangkar.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Program Bujur Sangkar\Program Bujur Sangkar\obj\Debug\Program Bujur Sangkar.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Program Bujur Sangkar\Program Bujur Sangkar\obj\Debug\Program Bujur Sangkar.pdb
