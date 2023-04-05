@@ -1,0 +1,11 @@
+c:\users\axioo\documents\visual studio 2015\Projects\Program Kubus\Program Kubus\bin\Debug\Program Kubus.exe.config
+c:\users\axioo\documents\visual studio 2015\Projects\Program Kubus\Program Kubus\bin\Debug\Program Kubus.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Program Kubus\Program Kubus\bin\Debug\Program Kubus.pdb
+c:\users\axioo\documents\visual studio 2015\Projects\Program Kubus\Program Kubus\bin\Debug\Program Kubus.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Program Kubus\Program Kubus\obj\Debug\Program Kubus.vbprojResolveAssemblyReference.cache
+c:\users\axioo\documents\visual studio 2015\Projects\Program Kubus\Program Kubus\obj\Debug\Program_Kubus.Form1.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Program Kubus\Program Kubus\obj\Debug\Program_Kubus.Resources.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Program Kubus\Program Kubus\obj\Debug\Program Kubus.vbproj.GenerateResource.Cache
+c:\users\axioo\documents\visual studio 2015\Projects\Program Kubus\Program Kubus\obj\Debug\Program Kubus.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Program Kubus\Program Kubus\obj\Debug\Program Kubus.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Program Kubus\Program Kubus\obj\Debug\Program Kubus.pdb
