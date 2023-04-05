@@ -1,0 +1,11 @@
+c:\users\axioo\documents\visual studio 2015\Projects\Program Segitiga\Program Segitiga\bin\Debug\Program Segitiga.exe.config
+c:\users\axioo\documents\visual studio 2015\Projects\Program Segitiga\Program Segitiga\bin\Debug\Program Segitiga.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Program Segitiga\Program Segitiga\bin\Debug\Program Segitiga.pdb
+c:\users\axioo\documents\visual studio 2015\Projects\Program Segitiga\Program Segitiga\bin\Debug\Program Segitiga.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Program Segitiga\Program Segitiga\obj\Debug\Program Segitiga.vbprojResolveAssemblyReference.cache
+c:\users\axioo\documents\visual studio 2015\Projects\Program Segitiga\Program Segitiga\obj\Debug\Program_Segitiga.Form1.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Program Segitiga\Program Segitiga\obj\Debug\Program_Segitiga.Resources.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Program Segitiga\Program Segitiga\obj\Debug\Program Segitiga.vbproj.GenerateResource.Cache
+c:\users\axioo\documents\visual studio 2015\Projects\Program Segitiga\Program Segitiga\obj\Debug\Program Segitiga.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Program Segitiga\Program Segitiga\obj\Debug\Program Segitiga.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Program Segitiga\Program Segitiga\obj\Debug\Program Segitiga.pdb
