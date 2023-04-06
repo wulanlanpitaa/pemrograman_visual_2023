@@ -1,0 +1,11 @@
+c:\users\axioo\documents\visual studio 2015\Projects\Program Tabung\Program Tabung\bin\Debug\Program Tabung.exe.config
+c:\users\axioo\documents\visual studio 2015\Projects\Program Tabung\Program Tabung\bin\Debug\Program Tabung.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Program Tabung\Program Tabung\bin\Debug\Program Tabung.pdb
+c:\users\axioo\documents\visual studio 2015\Projects\Program Tabung\Program Tabung\bin\Debug\Program Tabung.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Program Tabung\Program Tabung\obj\Debug\Program Tabung.vbprojResolveAssemblyReference.cache
+c:\users\axioo\documents\visual studio 2015\Projects\Program Tabung\Program Tabung\obj\Debug\Program_Tabung.Form1.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Program Tabung\Program Tabung\obj\Debug\Program_Tabung.Resources.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Program Tabung\Program Tabung\obj\Debug\Program Tabung.vbproj.GenerateResource.Cache
+c:\users\axioo\documents\visual studio 2015\Projects\Program Tabung\Program Tabung\obj\Debug\Program Tabung.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Program Tabung\Program Tabung\obj\Debug\Program Tabung.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Program Tabung\Program Tabung\obj\Debug\Program Tabung.pdb
