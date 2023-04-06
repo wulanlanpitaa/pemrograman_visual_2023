@@ -1,0 +1,11 @@
+c:\users\axioo\documents\visual studio 2015\Projects\Program Kerucut\Program Kerucut\bin\Debug\Program Kerucut.exe.config
+c:\users\axioo\documents\visual studio 2015\Projects\Program Kerucut\Program Kerucut\bin\Debug\Program Kerucut.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Program Kerucut\Program Kerucut\bin\Debug\Program Kerucut.pdb
+c:\users\axioo\documents\visual studio 2015\Projects\Program Kerucut\Program Kerucut\bin\Debug\Program Kerucut.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Program Kerucut\Program Kerucut\obj\Debug\Program Kerucut.vbprojResolveAssemblyReference.cache
+c:\users\axioo\documents\visual studio 2015\Projects\Program Kerucut\Program Kerucut\obj\Debug\Program_Kerucut.Form1.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Program Kerucut\Program Kerucut\obj\Debug\Program_Kerucut.Resources.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Program Kerucut\Program Kerucut\obj\Debug\Program Kerucut.vbproj.GenerateResource.Cache
+c:\users\axioo\documents\visual studio 2015\Projects\Program Kerucut\Program Kerucut\obj\Debug\Program Kerucut.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Program Kerucut\Program Kerucut\obj\Debug\Program Kerucut.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Program Kerucut\Program Kerucut\obj\Debug\Program Kerucut.pdb
