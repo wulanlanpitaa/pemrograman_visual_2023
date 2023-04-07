@@ -1,0 +1,11 @@
+c:\users\axioo\documents\visual studio 2015\Projects\Program Konversi dari Fahrenheit\Program Konversi dari Fahrenheit\bin\Debug\Program Konversi dari Fahrenheit.exe.config
+c:\users\axioo\documents\visual studio 2015\Projects\Program Konversi dari Fahrenheit\Program Konversi dari Fahrenheit\bin\Debug\Program Konversi dari Fahrenheit.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Program Konversi dari Fahrenheit\Program Konversi dari Fahrenheit\bin\Debug\Program Konversi dari Fahrenheit.pdb
+c:\users\axioo\documents\visual studio 2015\Projects\Program Konversi dari Fahrenheit\Program Konversi dari Fahrenheit\bin\Debug\Program Konversi dari Fahrenheit.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Program Konversi dari Fahrenheit\Program Konversi dari Fahrenheit\obj\Debug\Program Konversi dari Fahrenheit.vbprojResolveAssemblyReference.cache
+c:\users\axioo\documents\visual studio 2015\Projects\Program Konversi dari Fahrenheit\Program Konversi dari Fahrenheit\obj\Debug\Program_Konversi_dari_Fahrenheit.Form1.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Program Konversi dari Fahrenheit\Program Konversi dari Fahrenheit\obj\Debug\Program_Konversi_dari_Fahrenheit.Resources.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Program Konversi dari Fahrenheit\Program Konversi dari Fahrenheit\obj\Debug\Program Konversi dari Fahrenheit.vbproj.GenerateResource.Cache
+c:\users\axioo\documents\visual studio 2015\Projects\Program Konversi dari Fahrenheit\Program Konversi dari Fahrenheit\obj\Debug\Program Konversi dari Fahrenheit.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Program Konversi dari Fahrenheit\Program Konversi dari Fahrenheit\obj\Debug\Program Konversi dari Fahrenheit.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Program Konversi dari Fahrenheit\Program Konversi dari Fahrenheit\obj\Debug\Program Konversi dari Fahrenheit.pdb
