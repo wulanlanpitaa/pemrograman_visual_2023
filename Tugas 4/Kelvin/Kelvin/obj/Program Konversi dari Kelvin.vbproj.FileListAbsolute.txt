@@ -1,0 +1,11 @@
+c:\users\axioo\documents\visual studio 2015\Projects\Program Konversi dari Kelvin\Program Konversi dari Kelvin\bin\Debug\Program Konversi dari Kelvin.exe.config
+c:\users\axioo\documents\visual studio 2015\Projects\Program Konversi dari Kelvin\Program Konversi dari Kelvin\bin\Debug\Program Konversi dari Kelvin.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Program Konversi dari Kelvin\Program Konversi dari Kelvin\bin\Debug\Program Konversi dari Kelvin.pdb
+c:\users\axioo\documents\visual studio 2015\Projects\Program Konversi dari Kelvin\Program Konversi dari Kelvin\bin\Debug\Program Konversi dari Kelvin.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Program Konversi dari Kelvin\Program Konversi dari Kelvin\obj\Debug\Program Konversi dari Kelvin.vbprojResolveAssemblyReference.cache
+c:\users\axioo\documents\visual studio 2015\Projects\Program Konversi dari Kelvin\Program Konversi dari Kelvin\obj\Debug\Program_Konversi_dari_Kelvin.Form1.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Program Konversi dari Kelvin\Program Konversi dari Kelvin\obj\Debug\Program_Konversi_dari_Kelvin.Resources.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Program Konversi dari Kelvin\Program Konversi dari Kelvin\obj\Debug\Program Konversi dari Kelvin.vbproj.GenerateResource.Cache
+c:\users\axioo\documents\visual studio 2015\Projects\Program Konversi dari Kelvin\Program Konversi dari Kelvin\obj\Debug\Program Konversi dari Kelvin.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Program Konversi dari Kelvin\Program Konversi dari Kelvin\obj\Debug\Program Konversi dari Kelvin.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Program Konversi dari Kelvin\Program Konversi dari Kelvin\obj\Debug\Program Konversi dari Kelvin.pdb
