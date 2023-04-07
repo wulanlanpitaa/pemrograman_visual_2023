@@ -1,0 +1,11 @@
+c:\users\axioo\documents\visual studio 2015\Projects\Program Konversi dari Reamur\Program Konversi dari Reamur\bin\Debug\Program Konversi dari Reamur.exe.config
+c:\users\axioo\documents\visual studio 2015\Projects\Program Konversi dari Reamur\Program Konversi dari Reamur\bin\Debug\Program Konversi dari Reamur.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Program Konversi dari Reamur\Program Konversi dari Reamur\bin\Debug\Program Konversi dari Reamur.pdb
+c:\users\axioo\documents\visual studio 2015\Projects\Program Konversi dari Reamur\Program Konversi dari Reamur\bin\Debug\Program Konversi dari Reamur.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Program Konversi dari Reamur\Program Konversi dari Reamur\obj\Debug\Program Konversi dari Reamur.vbprojResolveAssemblyReference.cache
+c:\users\axioo\documents\visual studio 2015\Projects\Program Konversi dari Reamur\Program Konversi dari Reamur\obj\Debug\Program_Konversi_dari_Reamur.Form1.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Program Konversi dari Reamur\Program Konversi dari Reamur\obj\Debug\Program_Konversi_dari_Reamur.Resources.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Program Konversi dari Reamur\Program Konversi dari Reamur\obj\Debug\Program Konversi dari Reamur.vbproj.GenerateResource.Cache
+c:\users\axioo\documents\visual studio 2015\Projects\Program Konversi dari Reamur\Program Konversi dari Reamur\obj\Debug\Program Konversi dari Reamur.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Program Konversi dari Reamur\Program Konversi dari Reamur\obj\Debug\Program Konversi dari Reamur.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Program Konversi dari Reamur\Program Konversi dari Reamur\obj\Debug\Program Konversi dari Reamur.pdb
