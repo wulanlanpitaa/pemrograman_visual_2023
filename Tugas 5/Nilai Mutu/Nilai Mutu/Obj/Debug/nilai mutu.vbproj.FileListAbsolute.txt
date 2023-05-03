@@ -1,0 +1,11 @@
+c:\users\axioo\documents\visual studio 2015\Projects\nilai mutu\nilai mutu\bin\Debug\nilai mutu.exe.config
+c:\users\axioo\documents\visual studio 2015\Projects\nilai mutu\nilai mutu\bin\Debug\nilai mutu.exe
+c:\users\axioo\documents\visual studio 2015\Projects\nilai mutu\nilai mutu\bin\Debug\nilai mutu.pdb
+c:\users\axioo\documents\visual studio 2015\Projects\nilai mutu\nilai mutu\bin\Debug\nilai mutu.xml
+c:\users\axioo\documents\visual studio 2015\Projects\nilai mutu\nilai mutu\obj\Debug\nilai mutu.vbprojResolveAssemblyReference.cache
+c:\users\axioo\documents\visual studio 2015\Projects\nilai mutu\nilai mutu\obj\Debug\nilai_mutu.Form1.resources
+c:\users\axioo\documents\visual studio 2015\Projects\nilai mutu\nilai mutu\obj\Debug\nilai_mutu.Resources.resources
+c:\users\axioo\documents\visual studio 2015\Projects\nilai mutu\nilai mutu\obj\Debug\nilai mutu.vbproj.GenerateResource.Cache
+c:\users\axioo\documents\visual studio 2015\Projects\nilai mutu\nilai mutu\obj\Debug\nilai mutu.exe
+c:\users\axioo\documents\visual studio 2015\Projects\nilai mutu\nilai mutu\obj\Debug\nilai mutu.xml
+c:\users\axioo\documents\visual studio 2015\Projects\nilai mutu\nilai mutu\obj\Debug\nilai mutu.pdb
