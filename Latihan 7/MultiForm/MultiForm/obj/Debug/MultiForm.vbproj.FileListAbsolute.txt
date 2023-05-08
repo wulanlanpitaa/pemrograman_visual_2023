@@ -1,0 +1,13 @@
+c:\users\axioo\documents\visual studio 2015\Projects\MultiForm\MultiForm\bin\Debug\MultiForm.exe.config
+c:\users\axioo\documents\visual studio 2015\Projects\MultiForm\MultiForm\bin\Debug\MultiForm.exe
+c:\users\axioo\documents\visual studio 2015\Projects\MultiForm\MultiForm\bin\Debug\MultiForm.pdb
+c:\users\axioo\documents\visual studio 2015\Projects\MultiForm\MultiForm\bin\Debug\MultiForm.xml
+c:\users\axioo\documents\visual studio 2015\Projects\MultiForm\MultiForm\obj\Debug\MultiForm.vbprojResolveAssemblyReference.cache
+c:\users\axioo\documents\visual studio 2015\Projects\MultiForm\MultiForm\obj\Debug\MultiForm.Form1.resources
+c:\users\axioo\documents\visual studio 2015\Projects\MultiForm\MultiForm\obj\Debug\MultiForm.Form2.resources
+c:\users\axioo\documents\visual studio 2015\Projects\MultiForm\MultiForm\obj\Debug\MultiForm.Form3.resources
+c:\users\axioo\documents\visual studio 2015\Projects\MultiForm\MultiForm\obj\Debug\MultiForm.Resources.resources
+c:\users\axioo\documents\visual studio 2015\Projects\MultiForm\MultiForm\obj\Debug\MultiForm.vbproj.GenerateResource.Cache
+c:\users\axioo\documents\visual studio 2015\Projects\MultiForm\MultiForm\obj\Debug\MultiForm.exe
+c:\users\axioo\documents\visual studio 2015\Projects\MultiForm\MultiForm\obj\Debug\MultiForm.xml
+c:\users\axioo\documents\visual studio 2015\Projects\MultiForm\MultiForm\obj\Debug\MultiForm.pdb
