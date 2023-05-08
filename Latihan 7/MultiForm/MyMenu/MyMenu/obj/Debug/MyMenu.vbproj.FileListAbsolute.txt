@@ -1,0 +1,13 @@
+c:\users\axioo\documents\visual studio 2015\Projects\MyMenu\MyMenu\bin\Debug\MyMenu.exe.config
+c:\users\axioo\documents\visual studio 2015\Projects\MyMenu\MyMenu\bin\Debug\MyMenu.exe
+c:\users\axioo\documents\visual studio 2015\Projects\MyMenu\MyMenu\bin\Debug\MyMenu.pdb
+c:\users\axioo\documents\visual studio 2015\Projects\MyMenu\MyMenu\bin\Debug\MyMenu.xml
+c:\users\axioo\documents\visual studio 2015\Projects\MyMenu\MyMenu\obj\Debug\MyMenu.vbprojResolveAssemblyReference.cache
+c:\users\axioo\documents\visual studio 2015\Projects\MyMenu\MyMenu\obj\Debug\MyMenu.Form1.resources
+c:\users\axioo\documents\visual studio 2015\Projects\MyMenu\MyMenu\obj\Debug\MyMenu.Resources.resources
+c:\users\axioo\documents\visual studio 2015\Projects\MyMenu\MyMenu\obj\Debug\MyMenu.vbproj.GenerateResource.Cache
+c:\users\axioo\documents\visual studio 2015\Projects\MyMenu\MyMenu\obj\Debug\MyMenu.exe
+c:\users\axioo\documents\visual studio 2015\Projects\MyMenu\MyMenu\obj\Debug\MyMenu.xml
+c:\users\axioo\documents\visual studio 2015\Projects\MyMenu\MyMenu\obj\Debug\MyMenu.pdb
+c:\users\axioo\documents\visual studio 2015\Projects\MyMenu\MyMenu\obj\Debug\MyMenu.Form2.resources
+c:\users\axioo\documents\visual studio 2015\Projects\MyMenu\MyMenu\obj\Debug\MyMenu.Form3.resources
