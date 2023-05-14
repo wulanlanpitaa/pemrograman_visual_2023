@@ -1,0 +1,10 @@
+c:\users\axioo\documents\visual studio 2015\Projects\Makanan\Makanan\bin\Debug\Makanan.exe.config
+c:\users\axioo\documents\visual studio 2015\Projects\Makanan\Makanan\bin\Debug\Makanan.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Makanan\Makanan\bin\Debug\Makanan.pdb
+c:\users\axioo\documents\visual studio 2015\Projects\Makanan\Makanan\bin\Debug\Makanan.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Makanan\Makanan\obj\Debug\Makanan.Form1.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Makanan\Makanan\obj\Debug\Makanan.Resources.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Makanan\Makanan\obj\Debug\Makanan.vbproj.GenerateResource.Cache
+c:\users\axioo\documents\visual studio 2015\Projects\Makanan\Makanan\obj\Debug\Makanan.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Makanan\Makanan\obj\Debug\Makanan.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Makanan\Makanan\obj\Debug\Makanan.pdb
