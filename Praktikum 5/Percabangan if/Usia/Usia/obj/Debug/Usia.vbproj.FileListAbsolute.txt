@@ -1,0 +1,11 @@
+c:\users\axioo\documents\visual studio 2015\Projects\Usia\Usia\bin\Debug\Usia.exe.config
+c:\users\axioo\documents\visual studio 2015\Projects\Usia\Usia\bin\Debug\Usia.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Usia\Usia\bin\Debug\Usia.pdb
+c:\users\axioo\documents\visual studio 2015\Projects\Usia\Usia\bin\Debug\Usia.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Usia\Usia\obj\Debug\Usia.Form1.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Usia\Usia\obj\Debug\Usia.Resources.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Usia\Usia\obj\Debug\Usia.vbproj.GenerateResource.Cache
+c:\users\axioo\documents\visual studio 2015\Projects\Usia\Usia\obj\Debug\Usia.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Usia\Usia\obj\Debug\Usia.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Usia\Usia\obj\Debug\Usia.pdb
+C:\Users\AXIOO\Documents\Visual Studio 2015\Projects\Usia\Usia\obj\Debug\Usia.vbprojResolveAssemblyReference.cache
