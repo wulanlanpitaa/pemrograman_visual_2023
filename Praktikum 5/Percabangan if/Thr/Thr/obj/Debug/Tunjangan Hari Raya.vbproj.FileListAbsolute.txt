@@ -1,0 +1,11 @@
+c:\users\axioo\documents\visual studio 2015\Projects\Tunjangan Hari Raya\Tunjangan Hari Raya\bin\Debug\Tunjangan Hari Raya.exe.config
+c:\users\axioo\documents\visual studio 2015\Projects\Tunjangan Hari Raya\Tunjangan Hari Raya\bin\Debug\Tunjangan Hari Raya.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Tunjangan Hari Raya\Tunjangan Hari Raya\bin\Debug\Tunjangan Hari Raya.pdb
+c:\users\axioo\documents\visual studio 2015\Projects\Tunjangan Hari Raya\Tunjangan Hari Raya\bin\Debug\Tunjangan Hari Raya.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Tunjangan Hari Raya\Tunjangan Hari Raya\obj\Debug\Tunjangan Hari Raya.vbprojResolveAssemblyReference.cache
+c:\users\axioo\documents\visual studio 2015\Projects\Tunjangan Hari Raya\Tunjangan Hari Raya\obj\Debug\Tunjangan_Hari_Raya.Form1.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Tunjangan Hari Raya\Tunjangan Hari Raya\obj\Debug\Tunjangan_Hari_Raya.Resources.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Tunjangan Hari Raya\Tunjangan Hari Raya\obj\Debug\Tunjangan Hari Raya.vbproj.GenerateResource.Cache
+c:\users\axioo\documents\visual studio 2015\Projects\Tunjangan Hari Raya\Tunjangan Hari Raya\obj\Debug\Tunjangan Hari Raya.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Tunjangan Hari Raya\Tunjangan Hari Raya\obj\Debug\Tunjangan Hari Raya.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Tunjangan Hari Raya\Tunjangan Hari Raya\obj\Debug\Tunjangan Hari Raya.pdb
