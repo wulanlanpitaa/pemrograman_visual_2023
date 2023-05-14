@@ -1,0 +1,10 @@
+c:\users\axioo\documents\visual studio 2015\Projects\Kode Baju\Kode Baju\bin\Debug\Kode Baju.exe.config
+c:\users\axioo\documents\visual studio 2015\Projects\Kode Baju\Kode Baju\bin\Debug\Kode Baju.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Kode Baju\Kode Baju\bin\Debug\Kode Baju.pdb
+c:\users\axioo\documents\visual studio 2015\Projects\Kode Baju\Kode Baju\bin\Debug\Kode Baju.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Kode Baju\Kode Baju\obj\Debug\Kode_Baju.Form1.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Kode Baju\Kode Baju\obj\Debug\Kode_Baju.Resources.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Kode Baju\Kode Baju\obj\Debug\Kode Baju.vbproj.GenerateResource.Cache
+c:\users\axioo\documents\visual studio 2015\Projects\Kode Baju\Kode Baju\obj\Debug\Kode Baju.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Kode Baju\Kode Baju\obj\Debug\Kode Baju.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Kode Baju\Kode Baju\obj\Debug\Kode Baju.pdb
