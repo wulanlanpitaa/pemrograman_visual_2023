@@ -1,0 +1,24 @@
+c:\users\axioo\documents\visual studio 2015\Projects\Aplikasi Penjualan Makanan Hotel\Aplikasi Penjualan Makanan Hotel\bin\Debug\Aplikasi Penjualan Makanan Hotel.exe.config
+c:\users\axioo\documents\visual studio 2015\Projects\Aplikasi Penjualan Makanan Hotel\Aplikasi Penjualan Makanan Hotel\bin\Debug\Aplikasi Penjualan Makanan Hotel.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Aplikasi Penjualan Makanan Hotel\Aplikasi Penjualan Makanan Hotel\bin\Debug\Aplikasi Penjualan Makanan Hotel.pdb
+c:\users\axioo\documents\visual studio 2015\Projects\Aplikasi Penjualan Makanan Hotel\Aplikasi Penjualan Makanan Hotel\bin\Debug\Aplikasi Penjualan Makanan Hotel.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Aplikasi Penjualan Makanan Hotel\Aplikasi Penjualan Makanan Hotel\obj\Debug\Aplikasi Penjualan Makanan Hotel.vbprojResolveAssemblyReference.cache
+c:\users\axioo\documents\visual studio 2015\Projects\Aplikasi Penjualan Makanan Hotel\Aplikasi Penjualan Makanan Hotel\obj\Debug\Aplikasi_Penjualan_Makanan_Hotel.Form1.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Aplikasi Penjualan Makanan Hotel\Aplikasi Penjualan Makanan Hotel\obj\Debug\Aplikasi_Penjualan_Makanan_Hotel.Resources.resources
+c:\users\axioo\documents\visual studio 2015\Projects\Aplikasi Penjualan Makanan Hotel\Aplikasi Penjualan Makanan Hotel\obj\Debug\Aplikasi Penjualan Makanan Hotel.vbproj.GenerateResource.Cache
+c:\users\axioo\documents\visual studio 2015\Projects\Aplikasi Penjualan Makanan Hotel\Aplikasi Penjualan Makanan Hotel\obj\Debug\Aplikasi Penjualan Makanan Hotel.exe
+c:\users\axioo\documents\visual studio 2015\Projects\Aplikasi Penjualan Makanan Hotel\Aplikasi Penjualan Makanan Hotel\obj\Debug\Aplikasi Penjualan Makanan Hotel.xml
+c:\users\axioo\documents\visual studio 2015\Projects\Aplikasi Penjualan Makanan Hotel\Aplikasi Penjualan Makanan Hotel\obj\Debug\Aplikasi Penjualan Makanan Hotel.pdb
+C:\Users\AXIOO\Documents\Visual Studio 2015\Projects\Aplikasi Penjualan Makanan Hotel\Aplikasi Penjualan Makanan Hotel\bin\Debug\MySql.Data.dll
+C:\Users\AXIOO\Documents\SEMESTER 6\PEMROGRAMAN VISUAL\TUGAS BESAR\Aplikasi Penjualan Makanan Hotel\bin\Debug\Aplikasi Penjualan Makanan Hotel.exe.config
+C:\Users\AXIOO\Documents\SEMESTER 6\PEMROGRAMAN VISUAL\TUGAS BESAR\Aplikasi Penjualan Makanan Hotel\obj\Debug\Aplikasi Penjualan Makanan Hotel.exe
+C:\Users\AXIOO\Documents\SEMESTER 6\PEMROGRAMAN VISUAL\TUGAS BESAR\Aplikasi Penjualan Makanan Hotel\obj\Debug\Aplikasi Penjualan Makanan Hotel.xml
+C:\Users\AXIOO\Documents\SEMESTER 6\PEMROGRAMAN VISUAL\TUGAS BESAR\Aplikasi Penjualan Makanan Hotel\obj\Debug\Aplikasi Penjualan Makanan Hotel.pdb
+C:\Users\AXIOO\Documents\SEMESTER 6\PEMROGRAMAN VISUAL\TUGAS BESAR\Aplikasi Penjualan Makanan Hotel\bin\Debug\Aplikasi Penjualan Makanan Hotel.exe
+C:\Users\AXIOO\Documents\SEMESTER 6\PEMROGRAMAN VISUAL\TUGAS BESAR\Aplikasi Penjualan Makanan Hotel\bin\Debug\Aplikasi Penjualan Makanan Hotel.pdb
+C:\Users\AXIOO\Documents\SEMESTER 6\PEMROGRAMAN VISUAL\TUGAS BESAR\Aplikasi Penjualan Makanan Hotel\bin\Debug\Aplikasi Penjualan Makanan Hotel.xml
+C:\Users\AXIOO\Documents\SEMESTER 6\PEMROGRAMAN VISUAL\TUGAS BESAR\Aplikasi Penjualan Makanan Hotel\bin\Debug\MySql.Data.dll
+C:\Users\AXIOO\Documents\SEMESTER 6\PEMROGRAMAN VISUAL\TUGAS BESAR\Aplikasi Penjualan Makanan Hotel\obj\Debug\Aplikasi Penjualan Makanan Hotel.vbprojResolveAssemblyReference.cache
+C:\Users\AXIOO\Documents\SEMESTER 6\PEMROGRAMAN VISUAL\TUGAS BESAR\Aplikasi Penjualan Makanan Hotel\obj\Debug\Aplikasi_Penjualan_Makanan_Hotel.Form1.resources
+C:\Users\AXIOO\Documents\SEMESTER 6\PEMROGRAMAN VISUAL\TUGAS BESAR\Aplikasi Penjualan Makanan Hotel\obj\Debug\Aplikasi_Penjualan_Makanan_Hotel.Resources.resources
+C:\Users\AXIOO\Documents\SEMESTER 6\PEMROGRAMAN VISUAL\TUGAS BESAR\Aplikasi Penjualan Makanan Hotel\obj\Debug\Aplikasi Penjualan Makanan Hotel.vbproj.GenerateResource.Cache
