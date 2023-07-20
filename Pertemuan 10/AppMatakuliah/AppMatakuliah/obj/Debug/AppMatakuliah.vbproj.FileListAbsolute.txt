@@ -1,0 +1,12 @@
+c:\users\axioo\documents\visual studio 2015\Projects\AppMatakuliah\AppMatakuliah\bin\Debug\AppMatakuliah.exe.config
+C:\Users\AXIOO\Documents\Visual Studio 2015\Projects\AppMatakuliah\AppMatakuliah\bin\Debug\AppMatakuliah.exe
+C:\Users\AXIOO\Documents\Visual Studio 2015\Projects\AppMatakuliah\AppMatakuliah\bin\Debug\AppMatakuliah.pdb
+C:\Users\AXIOO\Documents\Visual Studio 2015\Projects\AppMatakuliah\AppMatakuliah\bin\Debug\AppMatakuliah.xml
+C:\Users\AXIOO\Documents\Visual Studio 2015\Projects\AppMatakuliah\AppMatakuliah\bin\Debug\MySql.Data.dll
+C:\Users\AXIOO\Documents\Visual Studio 2015\Projects\AppMatakuliah\AppMatakuliah\obj\Debug\AppMatakuliah.vbprojResolveAssemblyReference.cache
+C:\Users\AXIOO\Documents\Visual Studio 2015\Projects\AppMatakuliah\AppMatakuliah\obj\Debug\AppMatakuliah.Form1.resources
+C:\Users\AXIOO\Documents\Visual Studio 2015\Projects\AppMatakuliah\AppMatakuliah\obj\Debug\AppMatakuliah.Resources.resources
+C:\Users\AXIOO\Documents\Visual Studio 2015\Projects\AppMatakuliah\AppMatakuliah\obj\Debug\AppMatakuliah.vbproj.GenerateResource.Cache
+C:\Users\AXIOO\Documents\Visual Studio 2015\Projects\AppMatakuliah\AppMatakuliah\obj\Debug\AppMatakuliah.exe
+C:\Users\AXIOO\Documents\Visual Studio 2015\Projects\AppMatakuliah\AppMatakuliah\obj\Debug\AppMatakuliah.xml
+C:\Users\AXIOO\Documents\Visual Studio 2015\Projects\AppMatakuliah\AppMatakuliah\obj\Debug\AppMatakuliah.pdb
