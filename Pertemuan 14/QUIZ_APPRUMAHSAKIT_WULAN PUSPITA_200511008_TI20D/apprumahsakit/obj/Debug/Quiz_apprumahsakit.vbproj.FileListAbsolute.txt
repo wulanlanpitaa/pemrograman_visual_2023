@@ -1,0 +1,42 @@
+D:\Kuliah\Semester 6\Pemrogramman Visual\14 - quiz\Tugas quiz Apprumahsakit\apprumahsakit\apprumahsakit\bin\Debug\apprumahsakit.exe.config
+D:\Kuliah\Semester 6\Pemrogramman Visual\14 - quiz\Tugas quiz Apprumahsakit\apprumahsakit\apprumahsakit\bin\Debug\apprumahsakit.exe
+D:\Kuliah\Semester 6\Pemrogramman Visual\14 - quiz\Tugas quiz Apprumahsakit\apprumahsakit\apprumahsakit\bin\Debug\apprumahsakit.pdb
+D:\Kuliah\Semester 6\Pemrogramman Visual\14 - quiz\Tugas quiz Apprumahsakit\apprumahsakit\apprumahsakit\bin\Debug\apprumahsakit.xml
+D:\Kuliah\Semester 6\Pemrogramman Visual\14 - quiz\Tugas quiz Apprumahsakit\apprumahsakit\apprumahsakit\bin\Debug\Newtonsoft.Json.pdb
+D:\Kuliah\Semester 6\Pemrogramman Visual\14 - quiz\Tugas quiz Apprumahsakit\apprumahsakit\apprumahsakit\bin\Debug\Newtonsoft.Json.xml
+D:\Kuliah\Semester 6\Pemrogramman Visual\14 - quiz\Tugas quiz Apprumahsakit\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.Form1.resources
+D:\Kuliah\Semester 6\Pemrogramman Visual\14 - quiz\Tugas quiz Apprumahsakit\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.Form2.resources
+D:\Kuliah\Semester 6\Pemrogramman Visual\14 - quiz\Tugas quiz Apprumahsakit\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.Resources.resources
+D:\Kuliah\Semester 6\Pemrogramman Visual\14 - quiz\Tugas quiz Apprumahsakit\apprumahsakit\apprumahsakit\obj\Debug\Quiz_apprumahsakit.vbproj.GenerateResource.Cache
+D:\Kuliah\Semester 6\Pemrogramman Visual\14 - quiz\Tugas quiz Apprumahsakit\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.exe
+D:\Kuliah\Semester 6\Pemrogramman Visual\14 - quiz\Tugas quiz Apprumahsakit\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.xml
+D:\Kuliah\Semester 6\Pemrogramman Visual\14 - quiz\Tugas quiz Apprumahsakit\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.pdb
+D:\Kuliah\Semester 6\Pemrogramman Visual\14 - quiz\Tugas quiz Apprumahsakit\apprumahsakit\apprumahsakit\obj\Debug\Quiz_apprumahsakit.vbprojResolveAssemblyReference.cache
+C:\Users\AXIOO\Downloads\Quiz_Rumah Sakit_Sasi Septyaningtyas_200511042_20D\apprumahsakit\bin\Debug\apprumahsakit.exe.config
+C:\Users\AXIOO\Downloads\Quiz_Rumah Sakit_Sasi Septyaningtyas_200511042_20D\apprumahsakit\obj\Debug\apprumahsakit.exe
+C:\Users\AXIOO\Downloads\Quiz_Rumah Sakit_Sasi Septyaningtyas_200511042_20D\apprumahsakit\obj\Debug\apprumahsakit.xml
+C:\Users\AXIOO\Downloads\Quiz_Rumah Sakit_Sasi Septyaningtyas_200511042_20D\apprumahsakit\obj\Debug\apprumahsakit.pdb
+C:\Users\AXIOO\Downloads\Quiz_Rumah Sakit_Sasi Septyaningtyas_200511042_20D\apprumahsakit\bin\Debug\apprumahsakit.exe
+C:\Users\AXIOO\Downloads\Quiz_Rumah Sakit_Sasi Septyaningtyas_200511042_20D\apprumahsakit\bin\Debug\apprumahsakit.pdb
+C:\Users\AXIOO\Downloads\Quiz_Rumah Sakit_Sasi Septyaningtyas_200511042_20D\apprumahsakit\bin\Debug\apprumahsakit.xml
+C:\Users\AXIOO\Downloads\Quiz_Rumah Sakit_Sasi Septyaningtyas_200511042_20D\apprumahsakit\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\AXIOO\Downloads\Quiz_Rumah Sakit_Sasi Septyaningtyas_200511042_20D\apprumahsakit\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AXIOO\Downloads\Quiz_Rumah Sakit_Sasi Septyaningtyas_200511042_20D\apprumahsakit\obj\Debug\Quiz_apprumahsakit.vbprojResolveAssemblyReference.cache
+C:\Users\AXIOO\Downloads\Quiz_Rumah Sakit_Sasi Septyaningtyas_200511042_20D\apprumahsakit\obj\Debug\apprumahsakit.Form1.resources
+C:\Users\AXIOO\Downloads\Quiz_Rumah Sakit_Sasi Septyaningtyas_200511042_20D\apprumahsakit\obj\Debug\apprumahsakit.Form2.resources
+C:\Users\AXIOO\Downloads\Quiz_Rumah Sakit_Sasi Septyaningtyas_200511042_20D\apprumahsakit\obj\Debug\apprumahsakit.Resources.resources
+C:\Users\AXIOO\Downloads\Quiz_Rumah Sakit_Sasi Septyaningtyas_200511042_20D\apprumahsakit\obj\Debug\Quiz_apprumahsakit.vbproj.GenerateResource.Cache
+C:\Users\AXIOO\Documents\SEMESTER 6\PEMROGRAMAN VISUAL\QUIZ_APPRUMAHSAKIT_WULAN PUSPITA_200511008_TI20D\apprumahsakit\bin\Debug\apprumahsakit.exe.config
+C:\Users\AXIOO\Documents\SEMESTER 6\PEMROGRAMAN VISUAL\QUIZ_APPRUMAHSAKIT_WULAN PUSPITA_200511008_TI20D\apprumahsakit\obj\Debug\apprumahsakit.exe
+C:\Users\AXIOO\Documents\SEMESTER 6\PEMROGRAMAN VISUAL\QUIZ_APPRUMAHSAKIT_WULAN PUSPITA_200511008_TI20D\apprumahsakit\obj\Debug\apprumahsakit.xml
+C:\Users\AXIOO\Documents\SEMESTER 6\PEMROGRAMAN VISUAL\QUIZ_APPRUMAHSAKIT_WULAN PUSPITA_200511008_TI20D\apprumahsakit\obj\Debug\apprumahsakit.pdb
+C:\Users\AXIOO\Documents\SEMESTER 6\PEMROGRAMAN VISUAL\QUIZ_APPRUMAHSAKIT_WULAN PUSPITA_200511008_TI20D\apprumahsakit\bin\Debug\apprumahsakit.exe
+C:\Users\AXIOO\Documents\SEMESTER 6\PEMROGRAMAN VISUAL\QUIZ_APPRUMAHSAKIT_WULAN PUSPITA_200511008_TI20D\apprumahsakit\bin\Debug\apprumahsakit.pdb
+C:\Users\AXIOO\Documents\SEMESTER 6\PEMROGRAMAN VISUAL\QUIZ_APPRUMAHSAKIT_WULAN PUSPITA_200511008_TI20D\apprumahsakit\bin\Debug\apprumahsakit.xml
+C:\Users\AXIOO\Documents\SEMESTER 6\PEMROGRAMAN VISUAL\QUIZ_APPRUMAHSAKIT_WULAN PUSPITA_200511008_TI20D\apprumahsakit\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\AXIOO\Documents\SEMESTER 6\PEMROGRAMAN VISUAL\QUIZ_APPRUMAHSAKIT_WULAN PUSPITA_200511008_TI20D\apprumahsakit\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AXIOO\Documents\SEMESTER 6\PEMROGRAMAN VISUAL\QUIZ_APPRUMAHSAKIT_WULAN PUSPITA_200511008_TI20D\apprumahsakit\obj\Debug\Quiz_apprumahsakit.vbprojResolveAssemblyReference.cache
+C:\Users\AXIOO\Documents\SEMESTER 6\PEMROGRAMAN VISUAL\QUIZ_APPRUMAHSAKIT_WULAN PUSPITA_200511008_TI20D\apprumahsakit\obj\Debug\apprumahsakit.Form1.resources
+C:\Users\AXIOO\Documents\SEMESTER 6\PEMROGRAMAN VISUAL\QUIZ_APPRUMAHSAKIT_WULAN PUSPITA_200511008_TI20D\apprumahsakit\obj\Debug\apprumahsakit.Form2.resources
+C:\Users\AXIOO\Documents\SEMESTER 6\PEMROGRAMAN VISUAL\QUIZ_APPRUMAHSAKIT_WULAN PUSPITA_200511008_TI20D\apprumahsakit\obj\Debug\apprumahsakit.Resources.resources
+C:\Users\AXIOO\Documents\SEMESTER 6\PEMROGRAMAN VISUAL\QUIZ_APPRUMAHSAKIT_WULAN PUSPITA_200511008_TI20D\apprumahsakit\obj\Debug\Quiz_apprumahsakit.vbproj.GenerateResource.Cache
